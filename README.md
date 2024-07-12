@@ -12,7 +12,8 @@
 
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
+3. ▶️ [Demo Video](#demo)
+4. 🔋 [Features](#features)
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -26,6 +27,10 @@ A healthcare patient management application that allows patients to easily regis
 - TailwindCSS
 - ShadCN
 - Twilio
+
+## <a name="demo">▶️ Demo Video</a>
+
+https://github.com/user-attachments/assets/f9c41d75-b6ad-4c57-a330-247bfed52b39
 
 ## <a name="features">🔋 Features</a>
 
