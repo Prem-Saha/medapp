@@ -49,7 +49,7 @@ export default withSentryConfig(
     // https://github.com/getsentry/sentry-webpack-plugin#options
 
     org: "js-mastery-0i",
-    project: "javascript-nextjs",
+    project: "medapp",
 
     // Only print logs for uploading source maps in CI
     silent: !process.env.CI,
